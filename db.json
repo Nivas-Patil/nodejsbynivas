@@ -1,0 +1,29 @@
+{
+    "user":[
+        {
+            "id":1,
+            "name":"nivas",
+            "age":27,
+            "address":"kolhapur-karvir"
+        },
+        {
+            "id":2,
+            "name":"anil",
+            "age":29,
+            "address":"kolhapur-gaganbawada"
+        },
+        {
+            "id":3,
+            "name":"aunny",
+            "age":29,
+            "address":"kolhapur"
+        }
+    ],
+    "contact":[
+        {
+            "id":1,
+            "message":"test",
+            "mobilenumber":9588481077
+        }
+    ]
+}
